@@ -1,0 +1,17 @@
+C:\Program Files\IMS\IMS\bin\Debug\IMS.exe
+C:\Program Files\IMS\IMS\bin\Debug\IMS.pdb
+C:\Program Files\IMS\IMS\obj\Debug\IMS.csprojResolveAssemblyReference.cache
+C:\Program Files\IMS\IMS\obj\Debug\IMS.Properties.Resources.resources
+C:\Program Files\IMS\IMS\obj\Debug\IMS.csproj.GenerateResource.Cache
+C:\Program Files\IMS\IMS\obj\Debug\IMS.exe
+C:\Program Files\IMS\IMS\obj\Debug\IMS.pdb
+C:\Program Files\IMS\IMS\obj\Debug\IMS.frmInvertory.resources
+C:\Program Files\IMS\IMS\bin\Debug\IMS.exe.config
+C:\Program Files\IMS\IMS\obj\Debug\IMS.csproj.ResolveComReference.cache
+C:\Program Files\IMS\IMS\obj\Debug\IMS.frmReports.resources
+C:\Program Files\IMS\IMS\bin\Debug\itextsharp.dll
+C:\Program Files\IMS\IMS\obj\Debug\IMS.frmsettings.resources
+C:\Program Files\IMS\IMS\obj\Debug\IMS.frmedit.resources
+C:\Program Files\IMS\IMS\obj\Debug\IMS.frmLogin.resources
+C:\Program Files\IMS\IMS\obj\Debug\IMS.frmUsernames.resources
+C:\Program Files\IMS\IMS\obj\Debug\IMS.frm_about.resources
