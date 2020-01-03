@@ -11,7 +11,7 @@ namespace IMS.Includes
     class SQLConfig
     {
         //Data Source=(LocalDB)\v11.0;AttachDbFilename="C:\Program Files\IMS\Database.mdf";Integrated Security=True;Connect Timeout=30
-        public SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\Program Files\IMS\Database.mdf;Integrated Security=True;Connect Timeout=30");
+        public SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\IMS\Database.mdf;Integrated Security=True;Connect Timeout=30");
         public SqlCommand cmd;
         public SqlDataAdapter da;
         public DataTable dt;
