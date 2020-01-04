@@ -8,7 +8,7 @@ If your OS is x86 select	ENU\x86\SqlLocaLDB.MSI
 
 Create IMS folder in C:\IMS copy database files into "Database.mdf" and Database_log.ldf copy application from bin to IMS folder IMS.exe and neccesary dll file itextsharp.dll
 
-Or go to Installation folder en run the script IMS.sfx.exe
+Or go to Installation folder en run the script IMS.sfx.exe this script will automatically create folder and copy all the files.
 
 
 
